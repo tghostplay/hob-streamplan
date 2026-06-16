@@ -10,9 +10,7 @@ Datenquelle: Reddit (oeffentlich, erlaubt).
 """
 
 import os
-import sys
 import html
-import json
 import datetime as dt
 
 import requests
